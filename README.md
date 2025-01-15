@@ -1,1 +1,2 @@
 # hello-world
+This goal excites me to learn the basics of designing the website with great usability and professional aesthetics. My goal is to be proficient with HTML, CSS, JavaScript in order to develop advanced web applications.
